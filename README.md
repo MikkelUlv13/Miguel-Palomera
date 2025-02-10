@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Miguel Palomera :)
 
-### Desarrollador de tu vida Front-End | Entusiasta de la tecnologia 
+### Ingeniero de Datos y Desarrollador | Entusiasta de la tecnologia 
 
 ---
 
