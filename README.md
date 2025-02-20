@@ -7,10 +7,8 @@
 ## Sobre Mí
 
 Ingeniero en Sistemas Computacionales y Desarrollo de Software con experiencia en liderazgo de proyectos como
-Product Owner y Coding QA Specialist para Inteligencia Artificial (IA), además de Desarrollo Web y Ciencia de Datos
-utilizando lenguajes como Python, R y SQL. Competente en la implementación de frameworks como Django, Flask y
-React, aplicando principios de Programación Orientada a Objetos (POO) para mejorar la modularidad y escalabilidad
-del código.
+Product Owner y Coding QA Specialist para Inteligencia Artificial (IA) y Ciencia de Datos
+utilizando lenguajes como Python, R y SQL. 
 Enfoque en análisis de datos con librerías avanzadas como Pandas, PySpark, Matplotlib y Seaborn, gestionando grandes
 volúmenes de información para generar insights accionables. Lidero equipos bajo metodologías ágiles como Scrum y
 Design Sprint, entregando soluciones técnicas de alto impacto mediante el desarrollo de aplicaciones web escalables y
