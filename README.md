@@ -5,7 +5,7 @@
 ---
 
 ## Sobre Mí
-Ingeniero en Sistemas Computacionales y Desarrollo de Software, con formación en administración y una trayectoria híbrida que conecta ingeniería, análisis de datos, producto y negocio.
+Ingeniero en Sistemas Computacionales y Desarrollo de Software, experiencia en marketing, con maestría en administración y una trayectoria híbrida que conecta ingeniería, análisis de datos, producto y negocio.
 
 He trabajado como Product Owner / Product Manager, Analytics Engineer y QA Specialist en proyectos de Inteligencia Artificial y Ciencia de Datos, participando de forma integral en todo el ciclo de vida de las soluciones: desde la definición del problema y el modelado de datos, hasta el análisis, la visualización y la entrega de insights accionables para la toma de decisiones estratégicas.
 
