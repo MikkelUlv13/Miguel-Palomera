@@ -1,70 +1,75 @@
 # ¡Hola! 👋 Soy Miguel Palomera :)
 
-### Ingeniero de Datos y Desarrollador | Entusiasta de la tecnologia 
+### Analytics & Data Engineer | Software & BI | Enfoque en Producto 
 
 ---
 
 ## Sobre Mí
+Ingeniero en Sistemas Computacionales y Desarrollo de Software, con formación en administración y una trayectoria híbrida que conecta ingeniería, análisis de datos, producto y negocio.
 
-Ingeniero en Sistemas Computacionales y Desarrollo de Software con experiencia en liderazgo de proyectos como
-Product Owner y Coding QA Specialist para Inteligencia Artificial (IA) y Ciencia de Datos
-utilizando lenguajes como Python, R y SQL. 
-Enfoque en análisis de datos con librerías avanzadas como Pandas, PySpark, Matplotlib y Seaborn, gestionando grandes
-volúmenes de información para generar insights accionables. Lidero equipos bajo metodologías ágiles como Scrum y
-Design Sprint, entregando soluciones técnicas de alto impacto mediante el desarrollo de aplicaciones web escalables y
-la optimización de infraestructuras tecnológicas.
-Orientado a diseñar soluciones que mejoran el rendimiento de sistemas y garantizan la continuidad operativa mediante
-automatización y mejoras en la escalabilidad de las tecnologías implementadas.
+He trabajado como Product Owner / Product Manager, Analytics Engineer y QA Specialist en proyectos de Inteligencia Artificial y Ciencia de Datos, participando de forma integral en todo el ciclo de vida de las soluciones: desde la definición del problema y el modelado de datos, hasta el análisis, la visualización y la entrega de insights accionables para la toma de decisiones estratégicas.
+
+Mi especialidad se centra en el análisis y transformación de datos con Python y SQL, el diseño de pipelines analíticos, la construcción de dashboards ejecutivos en Power BI y la colaboración efectiva con equipos multidisciplinarios bajo metodologías ágiles como Scrum, Discovery y Design Sprint.
+
+Me enfoco en construir soluciones escalables, claras y orientadas al impacto, priorizando el valor para el negocio por encima del simple funcionamiento técnico.
+Actualmente continúo fortaleciendo mi perfil en Desarrollo de Software, así como estar realizando una Ingeniería de Datos e Inteligencia Artificial, con un enfoque práctico y aplicado a entornos reales.
 
 ### Lenguajes y Herramientas
 
 •⁠  ⁠*Lenguajes*: 
+  - Python                  🔋🔋🔋🔋🪫
+  - SQL                     🔋🔋🔋🪫🪫
   - HTML5                   🔋🔋🔋🪫🪫
   - CSS                     🔋🔋🔋🪫🪫
   - JavaScript              🔋🔋🪫🪫🪫
-  - Python                  🔋🔋🔋🔋🪫
+  - C++                     🔋🔋🪫🪫🪫
   - Java                    🔋🪫🪫🪫🪫
 
-•⁠  ⁠*Frameworks
-  - React.js
-  - Node.js
-  - Flask
-  - Django
-  
-*Librerías: 
+•⁠  ⁠*Data & Analytics:
   - Pandas
+  - PySpark
   - Matplotlib
   - Seaborn
-  - 
+  
+*BI & Visualización: 
+  - Power BI
+  - Tableau
+  - Qlik
+
 •⁠  ⁠*Otras Herramientas/habilidades*: 
   - Git & GitHub
-  - VIrtualizacion
-  - QA 
+  - Modelado de datos
+  - ETL / Data Cleaning
+  - Fundamentos de ML
+  - Data Engineering (nivel Jr–Mid) 
 
 ### ¿Qué Hago?
 
-•⁠  ⁠🖥 *Diseño Web Responsivo*: Creación de sitios web móviles y amigables para el usuario.
-•⁠  ⁠🎨 *UI/UX*: Enfocado en diseños limpios e intuitivos que ofrecen una experiencia de usuario fluida.
+•⁠  *📊 Análisis de datos end-to-end: limpieza, exploración, modelado y visualización.
 
+   *🧠 Traducción de datos a negocio: insights claros para stakeholders no técnicos.
 
-### Mi Trayectoria de Aprendizaje
+   *🧩 Diseño de productos de datos: dashboards, métricas, KPIs y flujos analíticos.
 
-¡Siempre estoy aprendiendo algo nuevo! Estas son algunas áreas en las que me estoy enfocando actualmente:
-•⁠  ⁠Explorando *Web3* y el mundo de las aplicaciones descentralizadas con  Blockchain.
-•⁠  ⁠Descubriendo las utilidades de la AI aplicada en desarollo.
-•⁠  ⁠Creando Chatbots con IA para actividades especificas.
+   *⚙️ Automatización y mejora de procesos mediante soluciones data-driven.
 
-### 🌱 Estoy aprendiendo actualmente. 
-•⁠  ⁠desarollo web enfocado en backend
-•⁠  ⁠Implementaciones con AI para desarrollos web.
+   *🤝 Trabajo colaborativo con áreas de producto, marketing, tecnología y negocio..
+   
 
+### 🌱En qué me estoy enfocando ahora 
+•⁠  ⁠Desarollo enfocado en backend
+•⁠  Profundizar en Data Engineering y Analytics Engineering
+•⁠  Mejorar diseño de pipelines de datos y modelos analíticos
+•⁠  Integración de IA aplicada a productos de datos y software
+•⁠  Backend orientado a productos data-driven
 
+Aprendizaje constante, pero con dirección estratégica.
 ---
 
-## Cómo Contactarme
+## Contactarme
 
-•⁠  ⁠💬 [LinkedIn](https://www.linkedin.com/in/herve-chan-barranca/)
-•⁠  ⁠📧 [Correo](hervechan3@gmail.com)
+•⁠  ⁠💬 [LinkedIn][((https://www.linkedin.com/in/miguel-%C3%A1ngel-p-g-37a19b340/)])
+•⁠  ⁠📧 [Correo](miguelangelpalomera.13@gmail.com)
 
 ### ⚡ Fun fact
 •⁠  ⁠Me gustan mucho los animales Xd
